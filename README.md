@@ -1,4 +1,4 @@
-# DSGE-Agricultural-Choice
+# Risk, Rain Insurance and Productivity: a DSGE Model on Village Economies
 Data, code and documents on my thesis work: Model in agricultural choices under incomplete markets.  Data from the UNPS (LSMS-ISA). Code in python.
 
 ## Folder Python code contains:
